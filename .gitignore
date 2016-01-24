@@ -1,0 +1,7 @@
+/_build
+/cover
+/deps
+erl_crash.dump
+*.ez
+/src/number_lexer.erl
+/src/number_parser.erl
